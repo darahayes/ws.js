@@ -8,9 +8,9 @@
         "bufferjs": ">= 1.0.2",
         "formidable": ">=1.0.9",
         "request": "2.9.100",
-        "xmldom": ">=0.1.8",    
+        "xmldom": "0.1.19",    
         "dateformat": ">=1.0.2-1.2.3",
-        "xml-crypto": ">=0.0.4"    
+        "xml-crypto": "0.0.22"    
      },
      "devDependencies": {
         "nodeunit": ">=0.6.4"
